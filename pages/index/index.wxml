@@ -1,0 +1,6 @@
+<!--index.wxml-->
+<view class="container">
+  
+    <image src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Finews.gtimg.com%2Fnewsapp_bt%2F0%2F8477855292%2F640.jpg&refer=http%3A%2F%2Finews.gtimg.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1617772458&t=17c27c107b7ce1bacf79fab330572c7d"></image>
+ 
+</view>
